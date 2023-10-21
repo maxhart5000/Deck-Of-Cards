@@ -1,4 +1,4 @@
-package dev.hartcode.FiveCardDraw.Poker;
+package dev.hartcode.fivecarddraw.poker;
 
 // Enum representing different poker hand rankings
 public enum Rankings {

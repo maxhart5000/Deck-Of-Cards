@@ -1,6 +1,6 @@
-package dev.hartcode.FiveCardDraw;
+package dev.hartcode.fivecarddraw;
 
-import dev.hartcode.FiveCardDraw.Poker.PokerGame;
+import dev.hartcode.fivecarddraw.poker.PokerGame;
 
 public class GameController {
     public static void main(String[] args) {

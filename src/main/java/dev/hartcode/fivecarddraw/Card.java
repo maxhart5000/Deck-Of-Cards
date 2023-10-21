@@ -1,4 +1,4 @@
-package dev.hartcode.FiveCardDraw;
+package dev.hartcode.fivecarddraw;
 
 import java.util.ArrayList;
 import java.util.Comparator;

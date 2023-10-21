@@ -1,6 +1,6 @@
-package dev.hartcode.FiveCardDraw.Poker;
+package dev.hartcode.fivecarddraw.poker;
 
-import dev.hartcode.FiveCardDraw.Card;
+import dev.hartcode.fivecarddraw.Card;
 
 import java.util.ArrayList;
 import java.util.Collections;
